@@ -1,0 +1,1401 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "versionFirst": "3.4.3",
+    "versionPublish": "3.4.3",
+    "name": "SilverDragonRestaurant.ca",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3"
+    },
+    "scrollAnimation": "",
+    "path": "file:///C:/Users/Wilson%20Wong/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-08-28_223238",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "publishType": "local",
+    "publishPath": "file:///C:/Users/Wilson%20Wong/OneDrive/Websites/SilverDragonRestaurant.github.io"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Silver Dragon Resturant - Home",
+        "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
+        "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
+        "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dragonwhite-290x128-79.png",
+              "height": 128,
+              "alt": "Silver Dragon",
+              "link": "index.html",
+              "title": "Silver Dragon",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Silver Dragon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "48px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Welcome to the Silver Dragon Resturant<br><br>",
+          "meta": "<b>We appreciate your business!</b>"
+        },
+        {
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            "UL": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "content2-2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<blockquote><ul><li><span style=\"font-style: normal;\">Chef Mr. Chiu Wong established this family owned Chinese restaurant in 1985.</span></li><li><span style=\"font-style: normal;\">Our food is the finest and most authentic in home cooking, both in Cantonese and Szechuan styles.</span></li><li><span style=\"font-style: normal;\">We use the freshest of ingredients, most are locally grown. Each dish is freshly prepared as ordered.</span></li><li><span style=\"font-style: normal;\">Our dine in experience offers a relaxing environment to enjoy great food and service.</span></li><li><span style=\"font-style: normal;\">Group parties are welcome. We also cater to special orders and special needs due to allergies.</span></li><li><span style=\"font-style: normal;\">We have served thousands of satisfied local and visiting customers.</span></li><li><span style=\"font-style: normal;\">We accept all major credit and debit cards. Debit at the door available for your convenience!</span></li></ul></blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#b8312f"
+            },
+            "SMALL": {
+              "font-size": "30px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-6",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Finding Us<br><br>",
+          "meta": "<b>We are located at the corner of Robie Street and Bilby Street in Halifax.</b><br><b>Right across the street from Shoppers Drug Mart.</b>"
+        },
+        {
+          "_name": "map2",
+          "_anchor": "map2-5",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Hours Of Operation</strong><br>Monday ~ 11:30AM - 11:00PM<br>Tuesday ~ 11:30AM - 11:00PM<br>Wednesday ~ 11:30AM - 11:00PM<br>Thursday ~ 11:30AM - 11:00PM<br>Friday ~ 11:30AM - 12 Midnight<br>Saturday ~ 4:30PM - 12 Midnight<br>Sunday ~ 4:30PM - 11:00PM<br>Holidays ~ 4:30PM - 11:00PM<br>",
+          "text2": "<p><strong>Contact Us</strong></p><p><span style=\"line-height: 1.8;\">Call Us At:</span></p><p><span style=\"line-height: 1.8;\">902-455-2800</span></p><p><span style=\"line-height: 1.8;\"><a href=\"http://www.facebook.com/SilverDragonHalifax\" target=\"_blank\">Like us on Facebook!</a></span></p><p><span style=\"line-height: 1.8;\"><br></span></p><p><span style=\"line-height: 1.8;\">Free Delivery on Cash Orders over $25 in the Halifax Peninsula</span></p><p></p>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Silver Dragon Resturant",
+        "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
+        "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
+        "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dragonwhite-290x128-79.png",
+              "height": 128,
+              "alt": "Silver Dragon",
+              "link": "index.html",
+              "title": "Silver Dragon",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Silver Dragon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "48px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Welcome to the Silver Dragon Resturant<br><br>",
+          "meta": "<b>We appreciate your business!</b>"
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-12",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Hours Of Operation</strong><br>Monday ~ 11:30AM - 11:00PM<br>Tuesday ~ 11:30AM - 11:00PM<br>Wednesday ~ 11:30AM - 11:00PM<br>Thursday ~ 11:30AM - 11:00PM<br>Friday ~ 11:30AM - 12 Midnight<br>Saturday ~ 4:30PM - 12 Midnight<br>Sunday ~ 4:30PM - 11:00PM<br>Holidays ~ 4:30PM - 11:00PM<br>",
+          "text2": "<p><strong>Contact Us</strong></p><p><span style=\"line-height: 1.8;\">Call Us At:</span></p><p><span style=\"line-height: 1.8;\">902-455-2800</span></p><p><span style=\"line-height: 1.8;\"><a href=\"http://www.facebook.com/SilverDragonHalifax\" target=\"_blank\">Like us on Facebook!</a></span></p><p><span style=\"line-height: 1.8;\"><br></span></p><p><span style=\"line-height: 1.8;\">Free Delivery on Cash Orders over $25 in the Halifax Peninsula</span></p><p></p>"
+        }
+      ]
+    },
+    "take-out-menu.html": {
+      "settings": {
+        "title": "Silver Dragon Resturant - Take Out Menu",
+        "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
+        "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
+        "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dragonwhite-290x128-79.png",
+              "height": 128,
+              "alt": "Silver Dragon",
+              "link": "index.html",
+              "title": "Silver Dragon",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Silver Dragon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "48px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-14",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Call Us At: 902-455-2800<br><br>",
+          "meta": "<b>Our Take Out Menu for patrons that prefer to dine at a venue of their choosing</b><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_name": "slider2",
+          "_params": {
+            "autoplay": false,
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-out-menu-1-2000x2428-36.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-out-menu-2-2000x2428-26.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-out-menu-3-2000x2428-82.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-out-menu-4-2000x2428-58.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-out-menu-5-2000x2428-39.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sd-out-menu-6-2000x2428-83.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-20"
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-16",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Hours Of Operation</strong><br>Monday ~ 11:30AM - 11:00PM<br>Tuesday ~ 11:30AM - 11:00PM<br>Wednesday ~ 11:30AM - 11:00PM<br>Thursday ~ 11:30AM - 11:00PM<br>Friday ~ 11:30AM - 12 Midnight<br>Saturday ~ 4:30PM - 12 Midnight<br>Sunday ~ 4:30PM - 11:00PM<br>Holidays ~ 4:30PM - 11:00PM<br>",
+          "text2": "<p><strong>Contact Us</strong></p><p><span style=\"line-height: 1.8;\">Call Us At:</span></p><p><span style=\"line-height: 1.8;\">902-455-2800</span></p><p><span style=\"line-height: 1.8;\"><a href=\"http://www.facebook.com/SilverDragonHalifax\" target=\"_blank\">Like us on Facebook!</a></span></p><p><span style=\"line-height: 1.8;\"><br></span></p><p><span style=\"line-height: 1.8;\">Free Delivery on Cash Orders over $25 in the Halifax Peninsula</span></p><p></p>"
+        }
+      ]
+    },
+    "dine-in-menu.html": {
+      "settings": {
+        "title": "Silver Dragon Resturant - Dine In Menu",
+        "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
+        "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
+        "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-13",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dragonwhite-290x128-79.png",
+              "height": 128,
+              "alt": "Silver Dragon",
+              "link": "index.html",
+              "title": "Silver Dragon",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Silver Dragon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "48px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-14",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Call Us At: 902-455-2800<br><br>",
+          "meta": "<b>Our Dine In Menu for patrons that prefer to enjoy a catered dining experience</b><br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_name": "slider2",
+          "_params": {
+            "autoplay": false,
+            "timeout": 5,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-1-2000x2667-45.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-2-2000x2667-40.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-3-2000x2667-27.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-4-2000x2667-30.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-5-2000x2667-84.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-6-2000x2667-67.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/sd-in-menu-web-7-2000x2667-94.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-21"
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-15",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Hours Of Operation</strong><br>Monday ~ 11:30AM - 11:00PM<br>Tuesday ~ 11:30AM - 11:00PM<br>Wednesday ~ 11:30AM - 11:00PM<br>Thursday ~ 11:30AM - 11:00PM<br>Friday ~ 11:30AM - 12 Midnight<br>Saturday ~ 4:30PM - 12 Midnight<br>Sunday ~ 4:30PM - 11:00PM<br>Holidays ~ 4:30PM - 11:00PM<br>",
+          "text2": "<p><strong>Contact Us</strong></p><p><span style=\"line-height: 1.8;\">Call Us At:</span></p><p><span style=\"line-height: 1.8;\">902-455-2800</span></p><p><span style=\"line-height: 1.8;\"><a href=\"http://www.facebook.com/SilverDragonHalifax\" target=\"_blank\">Like us on Facebook!</a></span></p><p><span style=\"line-height: 1.8;\"><br></span></p><p><span style=\"line-height: 1.8;\">Free Delivery on Cash Orders over $25 in the Halifax Peninsula</span></p><p></p>"
+        }
+      ]
+    },
+    "lunch-menu.html": {
+      "settings": {
+        "title": "Silver Dragon Resturant - Lunch Menu",
+        "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
+        "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
+        "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-17",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dragonwhite-290x128-79.png",
+              "height": 128,
+              "alt": "Silver Dragon",
+              "link": "index.html",
+              "title": "Silver Dragon",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Silver Dragon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "48px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-18",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Call Us At: 902-455-2800<br><br>",
+          "meta": "<b>Our Lunch Specials are available Monday to Friday from 11:30 AM to 3:00 PM</b><br>"
+        },
+        {
+          "_name": "image2",
+          "_anchor": "image2-22",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/sd-in-menu-web-8-1400x1867-11.png",
+              "width": 1400,
+              "link": "",
+              "alt": "Lunch Menu",
+              "title": "Lunch Menu",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": ""
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-20",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Hours Of Operation</strong><br>Monday ~ 11:30AM - 11:00PM<br>Tuesday ~ 11:30AM - 11:00PM<br>Wednesday ~ 11:30AM - 11:00PM<br>Thursday ~ 11:30AM - 11:00PM<br>Friday ~ 11:30AM - 12 Midnight<br>Saturday ~ 4:30PM - 12 Midnight<br>Sunday ~ 4:30PM - 11:00PM<br>Holidays ~ 4:30PM - 11:00PM<br>",
+          "text2": "<p><strong>Contact Us</strong></p><p><span style=\"line-height: 1.8;\">Call Us At:</span></p><p><span style=\"line-height: 1.8;\">902-455-2800</span></p><p><span style=\"line-height: 1.8;\"><a href=\"http://www.facebook.com/SilverDragonHalifax\" target=\"_blank\">Like us on Facebook!</a></span></p><p><span style=\"line-height: 1.8;\"><br></span></p><p><span style=\"line-height: 1.8;\">Free Delivery on Cash Orders over $25 in the Halifax Peninsula</span></p><p></p>"
+        }
+      ]
+    },
+    "media.html": {
+      "settings": {
+        "title": "Silver Dragon Resturant - Media",
+        "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
+        "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
+        "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.95rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.029rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-21",
+          "_params": {
+            "bgColor": "#f28281",
+            "fontSize": "0.95",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/dragonwhite-290x128-79.png",
+              "height": 128,
+              "alt": "Silver Dragon",
+              "link": "index.html",
+              "title": "Silver Dragon",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Silver Dragon</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "font-size": "48px",
+              "color": "#b8312f"
+            },
+            "B": {
+              "color": "#d14841"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-22",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Welcome to the Silver Dragon Resturant<br><br>",
+          "meta": "<b>We appreciate your business!</b>"
+        },
+        {
+          "_name": "contacts2",
+          "_styles": {
+            "STRONG": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "25px",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "text-align": "center",
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "20px"
+            },
+            "P": {
+              "text-align": "center",
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "contacts2-23",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#b8312f",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C",
+            "googleMap": {
+              "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
+              "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Hours Of Operation</strong><br>Monday ~ 11:30AM - 11:00PM<br>Tuesday ~ 11:30AM - 11:00PM<br>Wednesday ~ 11:30AM - 11:00PM<br>Thursday ~ 11:30AM - 11:00PM<br>Friday ~ 11:30AM - 12 Midnight<br>Saturday ~ 4:30PM - 12 Midnight<br>Sunday ~ 4:30PM - 11:00PM<br>Holidays ~ 4:30PM - 11:00PM<br>",
+          "text2": "<p><strong>Contact Us</strong></p><p><span style=\"line-height: 1.8;\">Call Us At:</span></p><p><span style=\"line-height: 1.8;\">902-455-2800</span></p><p><span style=\"line-height: 1.8;\"><a href=\"http://www.facebook.com/SilverDragonHalifax\" target=\"_blank\">Like us on Facebook!</a></span></p><p><span style=\"line-height: 1.8;\"><br></span></p><p><span style=\"line-height: 1.8;\">Free Delivery on Cash Orders over $25 in the Halifax Peninsula</span></p><p></p>"
+        }
+      ]
+    }
+  }
+}
