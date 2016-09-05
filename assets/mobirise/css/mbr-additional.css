@@ -11,6 +11,9 @@
 
 
 
+
+
+
 #ext_menu-1 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -111,6 +114,35 @@
 }
 #header3-6 B {
   color: #d14841;
+}
+#header3-25 .mbr-section-title,
+#header3-25 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-25 H3 {
+  font-family: 'Droid Serif', serif;
+  color: #b8312f;
+}
+#buttons1-26 .btn {
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 13px;
+}
+#buttons1-26 STRONG {
+  font-size: 15px;
+}
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-27 H3 {
+  font-family: 'Droid Serif', serif;
+  color: #b8312f;
+}
+#buttons1-28 B {
+  font-size: 15px;
+}
+#buttons1-28 STRONG {
+  font-size: 15px;
 }
 #contacts2-4 STRONG {
   text-align: center;

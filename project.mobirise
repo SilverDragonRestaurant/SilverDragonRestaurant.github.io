@@ -193,7 +193,7 @@
           "_anchor": "header3-6",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff",
             "showMeta": true
           },
@@ -214,6 +214,88 @@
               "stateDetails": ""
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#b8312f"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-25",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "View Our Menu Online",
+          "meta": ""
+        },
+        {
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "13px"
+            },
+            "STRONG": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "buttons1-26",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"dine-in-menu.html\" data-toolbar=\"-mbrBtnMove\"><strong>Dine In Menu</strong></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"take-out-menu.html\" data-toolbar=\"-mbrBtnMove\"><strong>Take Out Menu</strong></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"lunch-menu.html\" data-toolbar=\"-mbrBtnMove\"><strong>Lunch Menu</strong></a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-family": "'Droid Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
+              "color": "#b8312f"
+            }
+          },
+          "_name": "header3",
+          "_anchor": "header3-27",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Download Our Menu",
+          "meta": ""
+        },
+        {
+          "_name": "buttons1",
+          "_styles": {
+            "B": {
+              "font-size": "15px"
+            },
+            "STRONG": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "buttons1-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"SD In Menu.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>Dine In / Lunch Menu PDF</strong></a> <a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"SD Out Menu.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><strong>Take Out Menu PDF</strong></a> "
         },
         {
           "_name": "contacts2",
