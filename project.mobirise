@@ -57,7 +57,7 @@
               "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ed5453"
@@ -76,10 +76,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -93,7 +93,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
+            "fontHoverColor": "#000000",
             "transparent": false,
             "sticky": true,
             "logo": true,
@@ -151,25 +151,26 @@
           "meta": "<b>We appreciate your business!</b>"
         },
         {
-          "_name": "content2",
+          "_name": "content1",
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Chef Mr. Chiu Wong established this family owned Chinese restaurant in 1985.</li><li>Our food is the finest and most authentic in home cooking, both in Cantonese and Szechuan styles.</li><li>We use the freshest of ingredients, most are locally grown. Each dish is freshly prepared as ordered.</li><li>Our dine in experience offers a relaxing environment to enjoy great food and service.</li><li>Group parties are welcome. We also cater to special orders and special needs due to allergies.</li><li>We have served thousands of satisfied local and visiting customers.</li><li>We accept all major credit and debit cards. Debit at the door available for your convenience!</li></ul>",
           "_styles": {
             "P": {
-              "font-family": "'Droid Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px"
             },
             "UL": {
               "font-family": "'Lora', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px"
             }
-          },
-          "_anchor": "content2-2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
-          },
-          "text": "<blockquote><ul><li><span style=\"font-style: normal;\">Chef Mr. Chiu Wong established this family owned Chinese restaurant in 1985.</span></li><li><span style=\"font-style: normal;\">Our food is the finest and most authentic in home cooking, both in Cantonese and Szechuan styles.</span></li><li><span style=\"font-style: normal;\">We use the freshest of ingredients, most are locally grown. Each dish is freshly prepared as ordered.</span></li><li><span style=\"font-style: normal;\">Our dine in experience offers a relaxing environment to enjoy great food and service.</span></li><li><span style=\"font-style: normal;\">Group parties are welcome. We also cater to special orders and special needs due to allergies.</span></li><li><span style=\"font-style: normal;\">We have served thousands of satisfied local and visiting customers.</span></li><li><span style=\"font-style: normal;\">We accept all major credit and debit cards. Debit at the door available for your convenience!</span></li></ul></blockquote>"
+          }
         },
         {
           "_styles": {
@@ -382,7 +383,7 @@
               "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ed5453"
@@ -401,10 +402,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -418,7 +419,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
+            "fontHoverColor": "#000000",
             "transparent": false,
             "sticky": true,
             "logo": true,
@@ -560,7 +561,7 @@
               "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ed5453"
@@ -579,10 +580,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -596,7 +597,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
+            "fontHoverColor": "#000000",
             "transparent": false,
             "sticky": true,
             "logo": true,
@@ -841,7 +842,7 @@
               "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ed5453"
@@ -860,10 +861,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -877,7 +878,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
+            "fontHoverColor": "#000000",
             "transparent": false,
             "sticky": true,
             "logo": true,
@@ -1136,7 +1137,7 @@
               "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ed5453"
@@ -1155,10 +1156,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1172,7 +1173,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
+            "fontHoverColor": "#000000",
             "transparent": false,
             "sticky": true,
             "logo": true,
@@ -1339,7 +1340,7 @@
               "font-size": "1.029rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
               "background": "#ed5453"
@@ -1358,10 +1359,10 @@
               "transition": "color .2s ease-in-out"
             },
             ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
+              "color": "#000000"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
+              "color": "#000000!important"
             }
           },
           "_name": "ext.menu",
@@ -1375,7 +1376,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
+            "fontHoverColor": "#000000",
             "transparent": false,
             "sticky": true,
             "logo": true,
