@@ -9,7 +9,7 @@
       "title": "Mobirise 3"
     },
     "scrollAnimation": "",
-    "path": "file:///C:/Users/Wilson%20Wong/AppData/Local/Mobirise.com/Mobirise/projects/project-2016-08-28_223238",
+    "path": "file:///C:/Users/Wilson%20Wong/OneDrive/Websites/SilverDragonRestaurant.github.io",
     "screenshot": "screenshot.png",
     "favicon": "",
     "cookiesAlert": "",
@@ -21,7 +21,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Silver Dragon Resturant - Home",
+        "title": "Silver Dragon Resturant",
         "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
         "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
         "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
@@ -152,13 +152,6 @@
         },
         {
           "_name": "content1",
-          "_anchor": "content1-28",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text": "<ul><li>Chef Mr. Chiu Wong established this family owned Chinese restaurant in 1985.</li><li>Our food is the finest and most authentic in home cooking, both in Cantonese and Szechuan styles.</li><li>We use the freshest of ingredients, most are locally grown. Each dish is freshly prepared as ordered.</li><li>Our dine in experience offers a relaxing environment to enjoy great food and service.</li><li>Group parties are welcome. We also cater to special orders and special needs due to allergies.</li><li>We have served thousands of satisfied local and visiting customers.</li><li>We accept all major credit and debit cards. Debit at the door available for your convenience!</li></ul>",
           "_styles": {
             "P": {
               "font-family": "'Lora', serif",
@@ -170,7 +163,14 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
               "font-size": "20px"
             }
-          }
+          },
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#fff"
+          },
+          "text": "<ul><li>Chef Mr. Chiu Wong established this family owned Chinese restaurant in 1985.</li><li>Our food is the finest and most authentic in home cooking, both in Cantonese and Szechuan styles.</li><li>We use the freshest of ingredients, most are locally grown. Each dish is freshly prepared as ordered.</li><li>Our dine in experience offers a relaxing environment to enjoy great food and service.</li><li>Group parties are welcome. We also cater to special orders and special needs due to allergies.</li><li>We have served thousands of satisfied local and visiting customers.</li><li>We accept all major credit and debit cards. Debit at the door available for your convenience!</li></ul>"
         },
         {
           "_styles": {
@@ -525,7 +525,7 @@
     },
     "take-out-menu.html": {
       "settings": {
-        "title": "Silver Dragon Resturant - Take Out Menu",
+        "title": "Take Out Menu - Silver Dragon Resturant",
         "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
         "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
         "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
@@ -806,7 +806,7 @@
     },
     "dine-in-menu.html": {
       "settings": {
-        "title": "Silver Dragon Resturant - Dine In Menu",
+        "title": "Dine In Menu - Silver Dragon Resturant",
         "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
         "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
         "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
@@ -1101,7 +1101,7 @@
     },
     "lunch-menu.html": {
       "settings": {
-        "title": "Silver Dragon Resturant - Lunch Menu",
+        "title": "Lunch Menu - Silver Dragon Resturant",
         "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
         "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
         "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
@@ -1302,9 +1302,9 @@
         }
       ]
     },
-    "media.html": {
+    "404.html": {
       "settings": {
-        "title": "Silver Dragon Resturant - Media",
+        "title": "404 - Silver Dragon Resturant",
         "meta_descr": "Silver Dragon Restaurant. We are a family operated Chinese, Cantonese, Szechwan and Canadian food establishment in Halifax, Nova Scotia, Canada. We offer eat in and take out services. All our foods are freshly made for your enjoyment.",
         "header_custom": "<link rel=\"stylesheet\" href=\"mixitup/mixitup.css\" type=\"text/css\">",
         "footer_custom": "<!-- Analytics BEGIN -->\n<script type=\"text/javascript\">\nvar addthis_share = {\n\turl: \"http://SilverDragonRestaurant.ca\",\n\ttitle: \"www.SilverDragonRestaurant.ca\"\n}\n</script>\n<script type=\"text/javascript\" src=\"//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-54a34ce504e36396\"></script>\n<script>\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\n\n  ga('create', 'UA-32204041-1', 'auto');\n  ga('send', 'pageview');\n\n</script>\n<script type=\"text/javascript\">\nvar sc_project=7986436; \nvar sc_invisible=1; \nvar sc_security=\"439a3b02\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");\n</script>\n<noscript><div class=\"statcounter\"><a title=\"web stats\"\nhref=\"http://statcounter.com/free-web-stats/\"\ntarget=\"_blank\"><img class=\"statcounter\"\nsrc=\"//c.statcounter.com/7986436/0/439a3b02/1/\" alt=\"web\nstats\"></a></div></noscript>\n<!-- Analytics END -->",
@@ -1404,34 +1404,73 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Menus</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"dine-in-menu.html\"><strong>Dine In Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"take-out-menu.html\"><strong>Take Out Menu</strong></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"lunch-menu.html\"><strong>Lunch Menu</strong></a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">Call Us At: 902-455-2800</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_name": "msg-box5",
           "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#b8312f",
-              "font-size": "30px"
-            },
             "H3": {
               "font-family": "'Droid Serif', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "48px",
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "text-align": "right"
             },
-            "B": {
-              "color": "#d14841"
+            "P": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "color": "#000000",
+              "font-size": "19px",
+              "text-align": "right"
+            },
+            ".btn": {
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-size": "15px"
             }
           },
-          "_name": "header3",
-          "_anchor": "header3-22",
+          "_anchor": "msg-box5-28",
           "_params": {
-            "paddingTop": "6",
-            "paddingBottom": "2",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#fff",
-            "showMeta": true
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
           },
-          "title": "Welcome to the Silver Dragon Resturant<br><br>",
-          "meta": "<b>We appreciate your business!</b>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/broken-link-1400x1400-4.png",
+              "link": "",
+              "alt": "Broken Link",
+              "title": "Broken Link",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "OOPS!<br>404 Error!",
+          "text": "Sorry, it looks like you found a broken link. Please visit our homepage for fresh links.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\"><strong>Home</strong></a>"
         },
         {
           "_name": "contacts2",
