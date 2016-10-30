@@ -411,6 +411,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-7",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {
@@ -419,13 +425,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#000000"
           },
           "logo": {
             "image": {
@@ -468,10 +468,10 @@
           "_name": "header3",
           "_anchor": "header3-8",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Welcome to the Silver Dragon Resturant<br><br>",
           "meta": "<b>We appreciate your business!</b>"
@@ -504,13 +504,13 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b8312f",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
               "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
@@ -589,6 +589,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-13",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {
@@ -597,13 +603,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#000000"
           },
           "logo": {
             "image": {
@@ -646,10 +646,10 @@
           "_name": "header3",
           "_anchor": "header3-14",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Call Us At: 902-455-2800<br><br>",
           "meta": "<b>Our Take Out Menu for patrons that prefer to dine at a venue of their choosing</b><br>"
@@ -663,6 +663,8 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": 5,
             "paddingTop": "0",
             "paddingBottom": "2",
@@ -751,9 +753,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider2-20"
         },
@@ -785,13 +785,13 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b8312f",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
               "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
@@ -870,6 +870,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-13",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {
@@ -878,13 +884,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#000000"
           },
           "logo": {
             "image": {
@@ -927,10 +927,10 @@
           "_name": "header3",
           "_anchor": "header3-14",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Call Us At: 902-455-2800<br><br>",
           "meta": "<b>Our Dine In Menu for patrons that prefer to enjoy a catered dining experience</b><br>"
@@ -944,6 +944,8 @@
           "_name": "slider2",
           "_params": {
             "autoplay": false,
+            "showBullets": true,
+            "bgColor": "#fff",
             "timeout": 5,
             "paddingTop": "0",
             "paddingBottom": "2",
@@ -1046,9 +1048,7 @@
                 "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
-            ],
-            "bgColor": "#fff",
-            "showBullets": true
+            ]
           },
           "_anchor": "slider2-21"
         },
@@ -1080,13 +1080,13 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b8312f",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
               "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
@@ -1165,6 +1165,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-17",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {
@@ -1173,13 +1179,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#000000"
           },
           "logo": {
             "image": {
@@ -1222,10 +1222,10 @@
           "_name": "header3",
           "_anchor": "header3-18",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Call Us At: 902-455-2800<br><br>",
           "meta": "<b>Our Lunch Specials are available Monday to Friday from 11:30 AM to 3:00 PM</b><br>"
@@ -1234,10 +1234,10 @@
           "_name": "image2",
           "_anchor": "image2-22",
           "_params": {
+            "showText": false,
             "paddingTop": "0",
             "paddingBottom": "2",
-            "bgColor": "#fff",
-            "showText": false
+            "bgColor": "#fff"
           },
           "media": {
             "image": {
@@ -1283,13 +1283,13 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b8312f",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
               "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
@@ -1368,6 +1368,12 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-21",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": "0.95",
             "fontName": {
@@ -1376,13 +1382,7 @@
               "css": "'Droid Sans', sans-serif"
             },
             "fontColor": "#ffffff",
-            "fontHoverColor": "#000000",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
+            "fontHoverColor": "#000000"
           },
           "logo": {
             "image": {
@@ -1427,24 +1427,24 @@
           },
           "_anchor": "msg-box5-28",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -1500,13 +1500,13 @@
             "paddingTop": 3,
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#b8312f",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#b8312f",
             "overlay": true,
-            "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
             "googleMap": {
               "address": "2827 Robie Street, Halifax, NS, Canada B3K 4P3",
               "placeId": "ChIJw1qPB3ohWksR_bslR5_b1d8",
