@@ -1,7 +1,14 @@
 /* Theme Settings */
-.at4-follow .at4-follow-container .at-follow-label {
+.at4-follow .at4-follow-container .at-follow-label{
 	font-family: 'Droid Sans', sans-serif;
 	color: #000000;
 	font-weight: bold;
 	font-size: 15px;
+}
+/* Map Settings */
+.mbr-map iframe{
+	pointer-events: none;
+}
+.mbr-map iframe.clicked{
+	pointer-events: auto;
 }
