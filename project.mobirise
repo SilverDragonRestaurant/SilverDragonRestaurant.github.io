@@ -148,7 +148,7 @@
             "showMeta": true
           },
           "title": "Welcome to the Silver Dragon Resturant<br><br>",
-          "meta": "<b>We appreciate your business!</b><br><b><br></b><br><b>We are open at noon on New Years Eve and New Years Day!</b><br><b>Complete your New Years celebrations with us!</b><br>"
+          "meta": "<b>We appreciate your business!</b><br>"
         },
         {
           "_name": "content1",
