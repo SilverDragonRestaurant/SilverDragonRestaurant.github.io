@@ -1,44 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>https://silverdragonrestaurant.ca/</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://silverdragonrestaurant.ca/index.html</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://silverdragonrestaurant.ca/dine-in-menu.html</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://silverdragonrestaurant.ca/take-out-menu.html</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://silverdragonrestaurant.ca/lunch-menu.html</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://silverdragonrestaurant.ca/SD%20In%20Menu.pdf</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>https://silverdragonrestaurant.ca/SD%20Out%20Menu.pdf</loc>
-  <lastmod>2016-11-05T14:20:00+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://silverdragonrestaurant.ca/index.html</loc>
+	</url>
+	<url>
+		<loc>https://silverdragonrestaurant.ca/menu.html</loc>
+	</url>
+	<url>
+		<loc>https://silverdragonrestaurant.ca/404.html</loc>
+	</url>
 </urlset>
